@@ -1,7 +1,7 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
-# scss builds
-/src/styles/css/
+# scss build
+/src/styles/css
 
 # dependencies
 /node_modules
