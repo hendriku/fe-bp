@@ -18,6 +18,6 @@ As there are multiple tools of which you should only use once at a time, select 
 
 ## Notice
 
-Use it for whatever you want, but don't hold my liable.
+Use it for whatever you want, but don't hold me liable.
 
 Hendrik Ulbrich © 2018
